@@ -1,5 +1,5 @@
 # **Gra Szubienica**
-___
+
 ## Aplikacja webowa stworzona przeze mnie w ramach kursu programowania webowego z kanału yt "Pasja Informatyki".
 ___
 Pomysł oraz projekt w całości zostały skopiowane z filmu instruktażowego, który zalinkuję poniżej.
