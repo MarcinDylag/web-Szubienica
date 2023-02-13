@@ -1,0 +1,12 @@
+function closeWindow()
+{
+	let cww = confirm("Chcesz wyjść?")
+	if (cww==true) 
+	{
+		location.replace="http://www.google.pl";
+	}
+	else
+	{
+		alert("Zamykanie programu zostało anulowane");
+	}
+}
